@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/errors/404.jsp=UTF-8
+encoding//WebContent/WEB-INF/errors/500.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/common/footer.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/common/header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/common/menus.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/menu/list.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/system/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/system/login.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/system/welcome.jsp=UTF-8
+encoding//WebContent/resources/admin/easyui/easyui/1.3.4/locale/easyui-lang-zh_CN.js=UTF-8
+encoding//src/com/ischoolbar/programmer/controller/admin/LogController.java=UTF-8
+encoding//src/config/db.properties=UTF-8
